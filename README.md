@@ -156,24 +156,6 @@ The combination is powerful:
 2. **Arbitrage Framework**: Provides downside protection and additional profit extraction
 3. **Systematic Approach**: Transforms prop trading from speculation to mathematical advantage
 
-### Repository Contents
-├── strategy/
-│   ├── nq_momentum_strategy.html      # Complete strategy documentation
-│   └── execution_examples/            # Real trading screenshots
-├── research/
-│   ├── arbitrage_framework.pdf        # Mathematical paper
-│   └── simulation_results/            # Testing data
-├── certifications/
-│   ├── topstep_cert.png              # TopStep funded trader certificate
-│   ├── apex_50k_cert.png             # Apex 50K funding certificate
-│   ├── apex_25k_cert.png             # Apex 25K funding certificate
-│   └── apex_payout_email.png         # Payout confirmation
-└── charts/
-├── chart_execution_1.png         # Strategy execution example 1
-├── chart_execution_2.png         # Strategy execution example 2
-├── chart_execution_3.png         # Strategy execution example 3
-└── chart_execution_4.png         # Strategy execution example 4
-
 ## The Results: From Student to Systematic Trader
 
 **Financial Performance:**
