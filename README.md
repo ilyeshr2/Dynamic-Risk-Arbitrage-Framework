@@ -182,4 +182,4 @@ This repository is for educational and research purposes. Trading involves subst
 
 ---
 
-*"The transition from 'proprietary firm victim to quantitative millionaire' represents not merely financial success, but a fundamental paradigm shift from market prediction to mathematical arbitrage—the hallmark of professional quantitative trading."*
+
