@@ -32,6 +32,7 @@ Theory is worthless without execution. I took my strategy to the ultimate test: 
 - Status: Consistently profitable funded trader
 
 ![TopStep Certification](certifications/topstep_cert.png)
+<img src="certifications/topstep_cert.png" width="400">
 ![TopStep Certification](certifications/topstep_cert2.png)
 
 **Apex Trader Funding Achievements** 
