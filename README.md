@@ -31,8 +31,8 @@ Theory is worthless without execution. I took my strategy to the ultimate test: 
 - Account Size: $50K Trading Combine
 - Status: Consistently profitable funded trader
 
-![TopStep Certification](topstep_cert.png)
-![TopStep Certification](topstep_cert2.png)
+![TopStep Certification](certifications/topstep_cert.png)
+![TopStep Certification](certifications/topstep_cert2.png)
 
 **Apex Trader Funding Achievements** 
 - 50K Account: Funded May 24th, 2024
@@ -40,9 +40,9 @@ Theory is worthless without execution. I took my strategy to the ultimate test: 
 - Multiple payout confirmations received
 - Consistent performance across different account sizes
 
-![Apex 50K Funding](apex_50k_cert.png)
-![Apex 25K Funding](apex_25k_cert.png)
-![Apex Payout Confirmation](apex_payout_email.png)
+![Apex 50K Funding](certifications/apex_50k_cert.png)
+![Apex 25K Funding](certifications/apex_25k_cert.png)
+![Apex Payout Confirmation](certifications/apex_payout_email.png)
 
 ### Strategy Performance Documentation
 
@@ -53,13 +53,13 @@ The charts tell the story better than words:
 - Clean entries at EMA pullbacks after BoS confirmation
 - Risk management discipline maintained throughout
 
-![Strategy Execution 1](chart_execution_1.png)
-![Strategy Execution 2](chart_execution_2.png)
-![Strategy Execution 3](chart_execution_3.png)
-![Strategy Execution 4](chart_execution_4.png)
-![Strategy Execution 4](chart_execution_5.png)
-![Strategy Execution 4](chart_execution_6.png)
-![Strategy Execution 4](chart_execution_7.png)
+![Strategy Execution 1](charts/chart_execution_1.png)
+![Strategy Execution 2](charts/chart_execution_2.png)
+![Strategy Execution 3](charts/chart_execution_3.png)
+![Strategy Execution 4](charts/chart_execution_4.png)
+![Strategy Execution 4](charts/chart_execution_5.png)
+![Strategy Execution 4](charts/chart_execution_6.png)
+![Strategy Execution 4](charts/chart_execution_7.png)
 
 ## Chapter 4: The Mathematical Discovery - Prop Firm Arbitrage
 
@@ -74,7 +74,7 @@ What started as curiosity about prop firm economics became a comprehensive mathe
 - **Mathematical Proof**: Complete framework with theorems and proofs for guaranteed profit extraction
 - **Universal Application**: Works across any prop firm configuration
 
-[📄 Read the full research paper](Dynamic_Risk_Arbitrage_Paper.pdf)
+[📄 Read the full research paper](research/Dynamic_Risk_Arbitrage_Paper.pdf)
 
 ### Mathematical Framework Deep Dive
 
