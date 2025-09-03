@@ -31,9 +31,9 @@ Theory is worthless without execution. I took my strategy to the ultimate test: 
 - Account Size: $50K Trading Combine
 - Status: Consistently profitable funded trader
 
-![TopStep Certification](certifications/topstep_cert.png)
+
 <img src="certifications/topstep_cert.png" width="400">
-![TopStep Certification](certifications/topstep_cert2.png)
+<img src="certifications/topstep_cert2.png" width="400">
 
 **Apex Trader Funding Achievements** 
 - 50K Account: Funded May 24th, 2024
@@ -41,9 +41,9 @@ Theory is worthless without execution. I took my strategy to the ultimate test: 
 - Multiple payout confirmations received
 - Consistent performance across different account sizes
 
-![Apex 50K Funding](certifications/apex_50k_cert.png)
-![Apex 25K Funding](certifications/apex_25k_cert.png)
-![Apex Payout Confirmation](certifications/apex_payout_email.png)
+<img src="certifications/apex_50k_cert.png" width="400">
+<img src="certifications/apex_25k_cert.png" width="400">
+<img src="certifications/apex_payout_email.png" width="400">
 
 ### Strategy Performance Documentation
 
