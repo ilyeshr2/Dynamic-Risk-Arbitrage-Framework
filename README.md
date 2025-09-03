@@ -31,7 +31,7 @@ Theory is worthless without execution. I took my strategy to the ultimate test: 
 - Account Size: $50K Trading Combine
 - Status: Consistently profitable funded trader
 
-[![TopStep Certification](certifications/topstep_cert_thumb.png)](certifications/topstep_cert.png)
+![TopStep Certification](certifications/topstep_cert1.png)
 ![TopStep Certification](certifications/topstep_cert2.png)
 
 **Apex Trader Funding Achievements** 
