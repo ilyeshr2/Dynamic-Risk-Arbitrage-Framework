@@ -41,9 +41,9 @@ Theory is worthless without execution. I took my strategy to the ultimate test: 
 - Multiple payout confirmations received
 - Consistent performance across different account sizes
 
-<img src="certifications/apex_50k_cert.png" width="400">
-<img src="certifications/apex_25k_cert.png" width="400">
-<img src="certifications/apex_payout_email.png" width="400">
+<img src="certifications/apex_50k_cert.png" height="500">
+<img src="certifications/apex_25k_cert.png" height="500">
+<img src="certifications/apex_payout_email.png" height="500">
 
 ### Strategy Performance Documentation
 
@@ -54,13 +54,13 @@ The charts tell the story better than words:
 - Clean entries at EMA pullbacks after BoS confirmation
 - Risk management discipline maintained throughout
 
-![Strategy Execution 1](charts/chart_execution_1.png)
-![Strategy Execution 2](charts/chart_execution_2.png)
-![Strategy Execution 3](charts/chart_execution_3.png)
-![Strategy Execution 4](charts/chart_execution_4.png)
-![Strategy Execution 4](charts/chart_execution_5.png)
-![Strategy Execution 4](charts/chart_execution_6.png)
-![Strategy Execution 4](charts/chart_execution_7.png)
+<img src="charts/chart_execution_1.png" width="500">
+<img src="charts/chart_execution_2.png" width="500">
+<img src="charts/chart_execution_3.png" width="500">
+<img src="charts/chart_execution_4.png" width="500">
+<img src="charts/chart_execution_5.png" width="500">
+<img src="charts/chart_execution_6.png" width="500">
+<img src="charts/chart_execution_7.png" width="500">
 
 ## Chapter 4: The Mathematical Discovery - Prop Firm Arbitrage
 
